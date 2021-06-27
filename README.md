@@ -7,3 +7,6 @@ Few algorithms were tested, but base algorithm was Logistic Regression .
 Possible improvements:
 1) Get more data
 2) Tune hyperparameters
+
+
+Dataset : https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
